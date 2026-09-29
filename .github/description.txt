@@ -1,0 +1,1 @@
+On-device iOS receipt OCR with editable expense records, currency-aware totals, and CSV/PDF exports.
